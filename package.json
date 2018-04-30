@@ -1,0 +1,22 @@
+{
+  "name": "e-weixin-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvisLin1994/e-weixin-api.git"
+  },
+  "keywords": [
+    "weixin-api"
+  ],
+  "author": "Elvis Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElvisLin1994/e-weixin-api/issues"
+  },
+  "homepage": "https://github.com/ElvisLin1994/e-weixin-api#readme"
+}
